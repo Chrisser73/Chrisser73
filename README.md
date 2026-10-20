@@ -1,6 +1,5 @@
 <div align="center">
-
-# Hi there, I'm Chrisser 👋
+<img src="./docs/banner.png" alt="Chrisser Banner" width="100%">
 
 ### 🕹️ Retro Enthusiast & Self-Hosted Tool Developer
 
