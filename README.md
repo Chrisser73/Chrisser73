@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Chrisser73/Chrisser73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Chrisser 👋
 
-Here are some ideas to get you started:
+### 🕹️ Retro Enthusiast & Self-Hosted Tool Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building custom tools, containerized services, and utilities for classic gaming hardware.*
+
+---
+
+[![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=Chrisser73&show_icons=true&theme=dark&hide_border=true)](https://github.com/Chrisser73)
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisser73&layout=compact&theme=dark&hide_border=true)](https://github.com/Chrisser73)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Focus
+
+- **Core:** Python, Vue.js, Batch/Shell
+- **Infrastructure:** Docker, Docker Compose, NGINX (ARM64 / x86-64 Self-Hosting)
+- **Passion:** Retro Console Modding, Save Data Tools & Self-Hosted Utilities
+
+---
+
+<div align="center">
+
+*“Self-hosted solutions & open-source preservation.”*
+
+</div>
