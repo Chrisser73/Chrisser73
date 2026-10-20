@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./docs/banner.png" alt="Chrisser Banner" width="100%">
+  <img src="docs/banner.svg" alt="Chrisser" width="100%">
 
 ### 🕹️ Retro Enthusiast & Self-Hosted Tool Developer
 
-*Building open-source custom tools, containerized services, and utilities for classic hardware❤️*
+***Building open-source custom tools, containerized services, and utilities for classic hardware❤️***
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,13 +22,7 @@
 
 **Core:** Vue.js, TypeScript, Magnolia CMS, Astro, SCSS/Tailwind, Docker, Python and more
 <br/>
-  
-</div>
-<div align="center">
- 👇
-  
+<small><i>Deploy a critical caffeine update to keep the open-source projects running smooth! ☕️</i></small>
+ ### 👇
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Ko--fi-967B69?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=4F3727&color=F6D55C)](https://ko-fi.com/crysercore)
-
-<small><i>Deploy a critical caffeine update to keep the open-source projects running smooth! ☕️✨</i></small>
-
 </div>
